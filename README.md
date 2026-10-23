@@ -1,13 +1,4 @@
-### End to End Project on Agentic AI Chatbot
+### End to End Project on Agentic AI Chatbot With Tools
 
+![alt text](image.png)
 ![alt text](image-1.png)
-
-create folder str:
-Node
-Graph
-LLM
-State
-UI
-
-
-Build ui using stream lit
